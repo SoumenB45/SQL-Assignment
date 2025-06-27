@@ -19,7 +19,7 @@ This repository contains a set of SQL queries written using **ANSI SQL** standar
 
 
 
-````
+
 
 Each folder contains `.sql` files relevant to that domain.
 
@@ -30,7 +30,7 @@ Each folder contains `.sql` files relevant to that domain.
 1. Clone the repository:
    ```bash
    git clone https://github.com/SoumenB45/SQL-Assignment.git
-````
+
 
 2. Open any `.sql` file using a SQL editor or tool.
 
@@ -47,3 +47,4 @@ Each folder contains `.sql` files relevant to that domain.
 * GitHub: [@SoumenB45](https://github.com/SoumenB45)
 * Email: [baidyasoumen50@gmail.com](mailto:baidyasoumen50@gmail.com)
 * LinkedIn: [Soumen Baidya](https://www.linkedin.com/in/soumen-baidya/)
+```
