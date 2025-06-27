@@ -17,14 +17,7 @@ This repository contains a set of SQL queries written using **ANSI SQL** standar
 
 ---
 
-## 📂 Folder Structure
 
-```
-
-SQL-Assignment/
-├── accounting/
-├── hr/
-└── it/
 
 ````
 
@@ -54,9 +47,3 @@ Each folder contains `.sql` files relevant to that domain.
 * GitHub: [@SoumenB45](https://github.com/SoumenB45)
 * Email: [baidyasoumen50@gmail.com](mailto:baidyasoumen50@gmail.com)
 * LinkedIn: [Soumen Baidya](https://www.linkedin.com/in/soumen-baidya/)
-
-
-```
-
-You can now copy and paste this directly into your `README.md`. Let me know if you want to add a preview of example queries or sample output later.
-```
