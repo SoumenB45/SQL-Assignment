@@ -17,21 +17,10 @@ This repository contains a set of SQL queries written using **ANSI SQL** standar
 
 ---
 
-
-
-
-
-Each folder contains `.sql` files relevant to that domain.
-
----
-
-## ✅ How to Use
+## How to Use
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/SoumenB45/SQL-Assignment.git
-
-
+   
 2. Open any `.sql` file using a SQL editor or tool.
 
 3. Modify table names as needed to match your environment.
