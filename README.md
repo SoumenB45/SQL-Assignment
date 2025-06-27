@@ -1,5 +1,4 @@
 
-```
 # 📁 SQL Assignment
 
 This repository contains a set of SQL queries written using **ANSI SQL** standards. The queries are designed to solve common business-related data problems from domains like HR, Accounting, and IT.
@@ -36,4 +35,4 @@ This repository contains a set of SQL queries written using **ANSI SQL** standar
 * GitHub: [@SoumenB45](https://github.com/SoumenB45)
 * Email: [baidyasoumen50@gmail.com](mailto:baidyasoumen50@gmail.com)
 * LinkedIn: [Soumen Baidya](https://www.linkedin.com/in/soumen-baidya/)
-```
+
