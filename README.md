@@ -1,6 +1,5 @@
-Sure! Here's a **simple and clean GitHub README in Markdown format**—focused on **ANSI SQL only** and short enough for a typical project:
 
-```markdown
+```
 # 📁 SQL Assignment
 
 This repository contains a set of SQL queries written using **ANSI SQL** standards. The queries are designed to solve common business-related data problems from domains like HR, Accounting, and IT.
